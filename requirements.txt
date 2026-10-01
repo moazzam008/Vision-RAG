@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+transformers
+torch
+torchvision
+pillow
+qdrant-client
+sentence-transformers
+python-multipart
+einops
+streamlit
+requests
+timm==0.9.12
